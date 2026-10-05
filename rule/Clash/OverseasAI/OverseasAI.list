@@ -38,14 +38,11 @@ DOMAIN,copilot.microsoft.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,desktop-release.codewhisperer.us-east-1.amazonaws.com
 DOMAIN,gateway.ai.cloudflare.com
-DOMAIN,gateway.bingviz.microsoft.net
-DOMAIN,gateway.bingviz.microsoftapp.net
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,idetoolkits-hostedfiles.amazonaws.com
 DOMAIN,idetoolkits.amazonwebservices.com
 DOMAIN,in.appcenter.ms
 DOMAIN,integrate.api.nvidia.com
-DOMAIN,location.microsoft.com
 DOMAIN,makersuite.google.com
 DOMAIN,odc.officeapps.live.com
 DOMAIN,openai-api.arkoselabs.com
@@ -53,15 +50,10 @@ DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,q.us-east-1.amazonaws.com
-DOMAIN,r.bing.com
-DOMAIN,self.events.data.microsoft.com
 DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN,services.bingapis.com
 DOMAIN,specs.q.us-east-1.amazonaws.com
 DOMAIN,static.cloudflareinsights.com
-DOMAIN,sydney.bing.com
 DOMAIN,telemetry.aws-language-servers.us-east-1.amazonaws.com
-DOMAIN,www.bing.com
 DOMAIN-SUFFIX,abacus.ai
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
@@ -85,7 +77,6 @@ DOMAIN-SUFFIX,anfutong.com.cn
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,anyscale.com
-DOMAIN-SUFFIX,api.microsoftapp.net
 DOMAIN-SUFFIX,api.nvidia.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,apify.com
@@ -111,7 +102,6 @@ DOMAIN-SUFFIX,bill-safe.com
 DOMAIN-SUFFIX,billmelater.com
 DOMAIN-SUFFIX,billmelater.info
 DOMAIN-SUFFIX,billmelater.net
-DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
 DOMAIN-SUFFIX,blackforestlabs.ai
 DOMAIN-SUFFIX,bml.info
 DOMAIN-SUFFIX,bolt.new
@@ -188,7 +178,6 @@ DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,diffbot.com
 DOMAIN-SUFFIX,dreamstudio.ai
 DOMAIN-SUFFIX,dust.tt
-DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,events.statsigapi.net
@@ -235,11 +224,8 @@ DOMAIN-SUFFIX,hebbia.com
 DOMAIN-SUFFIX,hedra.com
 DOMAIN-SUFFIX,helicone.ai
 DOMAIN-SUFFIX,heygen.com
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,higgsfield.ai
 DOMAIN-SUFFIX,host.livekit.cloud
-DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hume.ai
 DOMAIN-SUFFIX,hyperbolic.ai
 DOMAIN-SUFFIX,hyperbolic.xyz
